@@ -1,6 +1,6 @@
 # Uber-fullstack-clone
 
-Uber Video is a full-stack ride-booking web application with separate experiences for riders and captains (drivers). Riders can choose pickup and destination locations, compare estimated fares for different vehicle types, and request rides. Captains can share their location, receive ride requests in real time, accept a request, verify a rider with an OTP, and complete the ride.
+This is a full-stack ride-booking web application with separate experiences for riders and captains (drivers). Riders can choose pickup and destination locations, compare estimated fares for different vehicle types, and request rides. Captains can share their location, receive ride requests in real time, accept a request, verify a rider with an OTP, and complete the ride.
 
 The project is organized as two applications inside `uber-fullstack-clone/`:
 
